@@ -9,16 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 3
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 4
     }
   ],
   "cats": [
@@ -33,18 +23,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "Steve",
-      "email": "steve@steve.com",
-      "id": 1
-    },
-    {
-      "name": "Steve",
-      "email": "steve@steve.com",
-      "id": 2
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
